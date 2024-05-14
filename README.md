@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde github
 este es un mensaje editado completamente desde github!!!!
+
+
+###Este es cambios que hices desde vscode
